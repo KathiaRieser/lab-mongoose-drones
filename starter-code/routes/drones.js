@@ -1,6 +1,6 @@
 const express = require('express');
 
-// require the Drone model here
+
 
 const router = express.Router();
 
